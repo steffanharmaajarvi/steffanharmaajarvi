@@ -37,11 +37,11 @@ Transactional Outbox + Kafka + Go microservice — built for reliable async comm
 
 ## 📄 Resume
 
-[View my CV (PDF)](https://github.com/steffanharmaajarvi/event-driven-orders/blob/main/docs/cv.pdf)
+[View my CV (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cv.pdf)
 
 ## 📄 Cover Letter
 
-[View my Cover Letter (PDF)](https://github.com/steffanharmaajarvi/event-driven-orders/blob/main/docs/cover_letter.pdf)
+[View my Cover Letter (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cover_letter.pdf)
 
 ---
 

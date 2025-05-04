@@ -17,7 +17,7 @@ I specialize in **event-driven architectures**, **high-load services**, and clea
 
 ## 🧪 Projects
 
-### 🟢 [event-driven-orders](https://github.com/steffanharmaajarvi/event-driven-orders)
+### 🟢 [event-driven-orders](https://github.com/steffanharmaajarvi/go-orders-outbox)
 Transactional Outbox + Kafka + Go microservice — built for reliable async communication with strong consistency.
 
 - Clean architecture (Go)

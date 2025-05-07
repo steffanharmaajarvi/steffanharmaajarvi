@@ -25,6 +25,9 @@ Transactional Outbox + Kafka + Go microservice — built for reliable async comm
 - Kafka publisher with Outbox integration
 - Dockerized environment
 
+🔗 **Read the full architecture breakdown here** →  
+👉 [Architecting a Go Backend with Event-Driven Design and the Outbox Pattern](https://medium.com/@steffankharmaaiarvi/architecting-a-go-backend-with-event-driven-design-and-the-outbox-pattern-3928bf315e0a)
+
 ---
 
 ## 🧠 Currently Learning
@@ -37,16 +40,14 @@ Transactional Outbox + Kafka + Go microservice — built for reliable async comm
 
 ## 📄 Resume
 
-[View my CV (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cv.pdf)
-
-## 📄 Cover Letter
-
-[View my Cover Letter (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cover_letter.pdf)
+- [View my CV (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cv.pdf)
+- [View my Cover Letter (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cover_letter.pdf)
 
 ---
 
 ## 📬 Contact
 
-- Telegram: [@steffanharmaajarvi](https://t.me/steffanharmaajarvi)
-- Email: steffankharmaaiarvi@gmail.com
-- GitHub: [@steffanharmaajarvi](https://github.com/steffanharmaajarvi)
+- 🐦 Telegram: [@steffanharmaajarvi](https://t.me/steffanharmaajarvi)
+- 📧 Email: steffankharmaaiarvi@gmail.com
+- 💻 GitHub: [@steffanharmaajarvi](https://github.com/steffanharmaajarvi)
+- ✍️ Medium: [@steffankharmaaiarvi](https://medium.com/@steffankharmaaiarvi) — author of backend & architecture articles

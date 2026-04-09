@@ -40,7 +40,7 @@ Transactional Outbox + Kafka + Go microservice — built for reliable async comm
 
 ## 📄 Resume
 
-- [View my CV (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cv.pdf)
+- [View my CV (PDF)](blob:https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/062ca4dea3149921500f3a7ea1cfa89794439bd6/docs/Steffan_Senior_Backend_Golang_FINTECH_PREMIUM.pdf)
 - [View my Cover Letter (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cover_letter.pdf)
 
 ---

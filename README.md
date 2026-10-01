@@ -23,6 +23,8 @@ A product I took from an idea to a live production application.
 I own the product end to end: architecture, backend, infrastructure, third-party integrations, deployment and observability.
 Building my own product gave me a strong sense of ownership and taught me to weigh engineering decisions not only technically, but against users and business outcomes.
 
+💰 Right now I'm raising funding for Borderfolio — talking to investors and applying to accelerator programs.
+
 ---
 
 ### 🟢 [event-driven-orders](https://github.com/steffanharmaajarvi/go-orders-outbox)

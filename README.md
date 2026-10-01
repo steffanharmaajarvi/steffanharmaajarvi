@@ -17,6 +17,14 @@ I specialize in **event-driven architectures**, **high-load services**, and clea
 
 ## 🧪 Projects
 
+### 🔵 Borderfolio — fintech SaaS for international investors
+A product I took from an idea to a live production application.
+
+I own the product end to end: architecture, backend, infrastructure, third-party integrations, deployment and observability.
+Building my own product gave me a strong sense of ownership and taught me to weigh engineering decisions not only technically, but against users and business outcomes.
+
+---
+
 ### 🟢 [event-driven-orders](https://github.com/steffanharmaajarvi/go-orders-outbox)
 Transactional Outbox + Kafka + Go microservice — built for reliable async communication with strong consistency.
 

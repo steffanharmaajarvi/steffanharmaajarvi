@@ -41,7 +41,7 @@ Transactional Outbox + Kafka + Go microservice — built for reliable async comm
 ## 📄 Resume
 
 - [View my CV (PDF)](https://drive.google.com/file/d/15zqbV1UC1heLgblkvfOfWX1uMWwbvmSG/view?usp=sharing)
-- [View my Cover Letter (PDF)](https://github.com/steffanharmaajarvi/steffanharmaajarvi/blob/main/docs/cover_letter.pdf)
+- [View my Cover Letter (PDF)](https://docs.google.com/document/d/1LsHJGY9R3YwWVF13RQyH4aQbsVsa4HK0/edit?usp=sharing&ouid=115668232790438695370&rtpof=true&sd=true)
 
 ---
 

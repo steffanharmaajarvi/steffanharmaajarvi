@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Steffan
 
-I'm a backend engineer focused on building scalable and fault-tolerant systems with **Go**, **Rust**, and **Kafka**.  
+I'm a backend engineer focused on building scalable and fault-tolerant systems with **Go**, **PHP**, and **Kafka**.  
 I specialize in **event-driven architectures**, **high-load services**, and clean, maintainable code.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages**: Go (primary), Rust (in progress), TypeScript, PHP (legacy)
+- **Languages**: Go (primary), PHP (Symfony, Laravel), TypeScript
 - **Databases**: PostgreSQL, DynamoDB, CockroachDB
 - **Messaging**: Kafka, NATS, RabbitMQ
 - **Architecture**: DDD, CQRS, Outbox Pattern, Event Sourcing
@@ -40,7 +40,6 @@ Transactional Outbox + Kafka + Go microservice — built for reliable async comm
 
 ## 🧠 Currently Learning
 
-- Rust for smart contracts (Solana)
 - Blockchain architecture & Web3 tooling
 - Distributed systems at deeper levels (CAP, Raft, CRDTs)
 
